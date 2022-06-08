@@ -9,7 +9,7 @@
 
 1. 修改主题之后出现
 
-  ![image-20220608113328403](C:\Users\sxh\AppData\Roaming\Typora\typora-user-images\image-20220608113328403.png)
+  ![image-20220608113328403](./images/problem_img/pro1.jpg)
 
   缺少swig，需要手动安装
 
