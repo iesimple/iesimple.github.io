@@ -8,4 +8,14 @@
 ## problem
 
 1. 修改主题之后出现
-2.
+
+  ![image-20220608113328403](C:\Users\sxh\AppData\Roaming\Typora\typora-user-images\image-20220608113328403.png)
+
+  缺少swig，需要手动安装
+
+  ```shell
+  npm i hexo-renderer-swig
+  cnpm i hexo-renderer-swig	# 网上教程很多有使用淘宝源的，因为npm不好用
+  ```
+
+2. 
